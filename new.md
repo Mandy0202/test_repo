@@ -1,5 +1,5 @@
-## Anthropology
-### is the coolest thing ever because....
-* you can work in Africa
-* follow baboons
-* use GIS and RS
+## Title
+### Subtile
+* Idea 1
+* Idea 2
+* Idea 3
